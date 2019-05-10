@@ -1,0 +1,35 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "e2e",
+    "express",
+    "headless",
+    "helloworld",
+    "hello-world",
+    "min",
+    "test",
+    "testing",
+    "browser",
+    "puppeteer",
+    "softspider",
+    "softspiders",
+    "ss"
+  ],
+  "author": "Alexander Lapygin",
+  "license": "ISC",
+  "devDependencies": {
+    "jest-environment-node": "^24.8.0",
+    "jest-puppeteer": "^3.7.0",
+    "puppeteer": "^1.11.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
