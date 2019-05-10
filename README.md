@@ -14,6 +14,14 @@
 
 [express](https://github.com/softspider/express)
 
+## Direct feature descendants
+
+[puppeteer-jest-travis-heroku](https://github.com/softspider/puppeteer-jest-travis-heroku)
+
+## Direct code descendants
+
+[puppeteer-jest-travis-heroku](https://github.com/softspider/puppeteer-jest-travis-heroku)
+
 ---
 
 ## Installation
