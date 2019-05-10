@@ -6,9 +6,9 @@
 
 ## Direct feature ancestors
 
-[puppeteer](https://github.com/softspider/puppeteer)
-[express](https://github.com/softspider/express)
-[js-test](https://github.com/softspider/js-test)
+* [puppeteer](https://github.com/softspider/puppeteer)
+* [express](https://github.com/softspider/express)
+* [js-test](https://github.com/softspider/js-test)
 
 ## Direct code ancestors
 
