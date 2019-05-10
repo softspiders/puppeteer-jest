@@ -8,10 +8,6 @@
 
 [puppeteer](https://github.com/softspider/puppeteer)
 
-## Direct code ancestors
-
-TBD???
-
 ---
 
 ## Installation
