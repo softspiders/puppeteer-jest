@@ -30,6 +30,7 @@
     "puppeteer": "^1.11.0"
   },
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "jest": "^24.8.0"
   }
 }
