@@ -1,5 +1,12 @@
 # The simplest example of testing a web application in Puppeteer and Jest
 
+
+## Feature tags
+
+- jest
+- puppeteer
+- template
+
 ## Requirements
 
 [Node.js](https://nodejs.org/en/download/package-manager/) >= v6.4.0
