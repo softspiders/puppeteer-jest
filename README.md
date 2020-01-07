@@ -3,6 +3,7 @@
 
 ## Feature tags
 
+- express
 - jest
 - puppeteer
 - template
