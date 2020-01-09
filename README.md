@@ -1,3 +1,5 @@
+SOFTSPIDERS
+
 # The simplest example of testing a web application in Puppeteer and Jest
 
 
@@ -12,23 +14,16 @@
 
 [Node.js](https://nodejs.org/en/download/package-manager/) >= v6.4.0
 
-## Direct feature ancestors
+## Direct ancestors
 
 * [puppeteer](https://github.com/softspider/puppeteer)
-* [express](https://github.com/softspider/express)
+* [express](https://github.com/softspider/express) - also by code
 * [js-test](https://github.com/softspider/js-test)
 
-## Direct code ancestors
 
-[express](https://github.com/softspider/express)
+## Direct descendants
 
-## Direct feature descendants
-
-[puppeteer-jest-travis-heroku](https://github.com/softspider/puppeteer-jest-travis-heroku)
-
-## Direct code descendants
-
-[puppeteer-jest-travis-heroku](https://github.com/softspider/puppeteer-jest-travis-heroku)
+[puppeteer-jest-travis-heroku](https://github.com/softspider/puppeteer-jest-travis-heroku) - also by code
 
 ---
 
