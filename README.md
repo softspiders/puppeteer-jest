@@ -18,7 +18,7 @@ SOFTSPIDERS
 
 * [puppeteer](https://github.com/softspider/puppeteer)
 * [express](https://github.com/softspider/express) - also by code
-* [js-test](https://github.com/softspider/js-test)
+* [jest](https://github.com/softspider/jest)
 
 
 ## Direct descendants
