@@ -16,14 +16,14 @@ SOFTSPIDERS
 
 ## Direct ancestors
 
-* [puppeteer](https://github.com/softspider/puppeteer)
-* [express](https://github.com/softspider/express) - also by code
-* [jest](https://github.com/softspider/jest)
+* [puppeteer](https://github.com/softspiders/puppeteer)
+* [express](https://github.com/softspiders/express) - also by code
+* [jest](https://github.com/softspiders/jest)
 
 
 ## Direct descendants
 
-[puppeteer-jest-travis-heroku](https://github.com/softspider/puppeteer-jest-travis-heroku) - also by code
+[puppeteer-jest-travis-heroku](https://github.com/softspiders/puppeteer-jest-travis-heroku) - also by code
 
 ---
 
